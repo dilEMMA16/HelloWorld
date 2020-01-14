@@ -1,0 +1,51 @@
+#coverimage {
+	width: 100%;
+  height: 50vh;
+  object-fit: cover;
+}
+
+#mainHeader {
+  color: #DCAF7D;
+  font-size: 4em;
+  font-family: 'Georgia';
+  font-weight: bold;
+}
+
+.exampleColumn {
+  color: white;
+	font-weight: bold;
+	font-size: 2em;
+	text-align: center;
+}
+
+#fullColumn {
+	background-color: #DCAF7D;
+}
+
+.halfColumn {
+	background-color: #A68E78;
+  border: 10px solid #DCAF7D;
+}
+
+#quarterColumn {
+  background-color: #C6C9CB;
+}
+
+#threeQuarterColumn {
+  background-color: #446C14;
+}
+
+.fiveCols {
+  background-color: #446C14;
+  border: 10px solid #C6C9CB;
+}
+
+#pickAColorButton {
+  margin: 40px auto 0px auto;
+  display: block;
+}
+
+#colorCode {
+  color: #d3d3d3;
+  text-align: center;
+}
